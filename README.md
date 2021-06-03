@@ -7,7 +7,9 @@
   
 <p>💬 Ask me about  "Front-end Web Development", "Python", "Java"</p>
   
-<p>😃I bevieve in  #Live to the fullest & #Learning Never Stops</p>
+<p>😃 I bevieve in  #Live to the fullest & #Learning Never Stops</p>
+  
+ <p>🎨 How much creative I am ? I make oil pastel "Paintings" and plays "Piano"</p>
 </div>
 <br>
 
