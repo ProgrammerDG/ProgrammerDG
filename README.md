@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **React, Java, NodeJS, Python**
+- 🌱 I’m currently learning **React, NodeJS, Express, MongoDB **
 
-- 💬 Ask me about **Front-end Web Development, Java, Python**
+- 💬 Ask me about **Front-end Web Development, Python, Java**
 
 
 <h3 align="left">Languages and Tools:</h3>
